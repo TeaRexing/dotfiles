@@ -1,0 +1,7 @@
+.config/tmux/plugins
+.config/vim/plugged
+.config/zsh/oh-my-zsh
+.config/nvim/plugin
+.stignore
+.stfolder
+.stversions

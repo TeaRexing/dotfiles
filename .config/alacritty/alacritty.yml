@@ -1,0 +1,35 @@
+# =============================================================================
+# === Environment
+env:
+  TERM: xterm-256color
+# /============================================================================
+# =============================================================================
+# === Window
+window:
+  dimensions:
+    columns: 100
+    lines: 30
+  padding: 
+    x: 0
+    y: 0
+decorations: none
+# /============================================================================
+# =============================================================================
+# === Font
+font:
+  normal:
+    family: 'Hack Nerd Font Mono'
+    style: Regular
+  bold:
+    family: 'Hack Nerd Font Mono'
+    style: Bold
+  italic:
+    family: 'Hack Nerd Font Mono'
+    style: Italic
+  bold_italic:
+    family: 'Hack Nerd Font'
+    style: Bold Italic
+  size: 6
+# /============================================================================
+import: 
+  - nightfox_alacritty.yml
